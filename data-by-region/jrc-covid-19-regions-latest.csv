@@ -34713,7 +34713,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2022-06-10,CHE,Switzerland,Graubünden,46.658176,9.629923,89114,255,0,88859,32,1,False,False,CH056
 2022-06-10,CHE,Switzerland,Jura,47.368327,7.198733,31524,244,0,31280,3,0,False,False,CH025
 2022-06-10,CHE,Switzerland,Liechtenstein,47.164696,9.555,17605,85,17429,91,2,0,False,False,LI
-2022-06-10,CHE,Switzerland,Lucerne,47.06883,8.116991,180964,464,0,180500,84,0,False,False,CH061
+2022-06-10,CHE,Switzerland,Lucerne,47.06883,8.116991,181089,464,0,180625,84,0,False,False,CH061
 2022-06-10,CHE,Switzerland,Neuchâtel,46.997282,6.782288,77387,469,0,76918,8,1,False,False,CH024
 2022-06-10,CHE,Switzerland,Nidwalden,46.922198,8.419375,18645,36,0,18609,0,0,False,False,CH065
 2022-06-10,CHE,Switzerland,Obwalden,46.857772,8.209745,17097,61,0,17036,0,0,False,False,CH064
