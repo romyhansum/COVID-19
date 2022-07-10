@@ -1,6 +1,6 @@
 Date,iso3,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,CumulativeRecovered,CurrentlyPositive,Hospitalized,IntensiveCare,EUcountry,EUCPMcountry,NUTS
 2022-07-08,AFG,Afghanistan,33.930445,67.678945,482064325,5820162,,,,,False,False,AF
-2022-07-08,ALB,Albania,41.156986,20.181222,286732,3512,277576,5644,31,0,False,False,AL
+2022-07-10,ALB,Albania,41.156986,20.181222,287984,3514,278440,6030,34,0,False,False,AL
 2022-07-08,DZA,Algeria,28.026875,1.65284,482064325,5820162,,,,,False,False,DZ
 2022-07-08,ASM,American Samoa,-12.716089,-170.253983,482064325,5820162,,,,,False,False,
 2022-06-22,AND,Andorra,42.542268,1.596865,43774,153,,,4,,False,False,AD
@@ -136,7 +136,7 @@ Date,iso3,CountryName,lat,lon,CumulativePositive,CumulativeDeceased,CumulativeRe
 2022-07-08,MDA,Moldova,46.979527,28.377195,482064325,5820162,,,,,False,False,MD
 2022-07-08,MCO,Monaco,43.738348,7.424451,482064325,5820162,,,,,False,False,MC
 2022-07-08,MNG,Mongolia,46.860945,103.836986,482064325,5820162,,,,,False,False,MN
-2022-07-09,MNE,Montenegro,42.710152,19.410069,243076,2729,,,0,,False,True,ME
+2022-07-10,MNE,Montenegro,42.710152,19.410069,243476,2729,,,0,,False,True,ME
 2022-07-08,MSR,Montserrat,16.749415,-62.192741,482064325,5820162,,,,,False,False,MS
 2022-07-08,MAR,Morocco,31.792306,-7.080168,482064325,5820162,,,,,False,False,MA
 2022-07-08,MOZ,Mozambique,-18.670284,35.530157,482064325,5820162,,,,,False,False,MZ
