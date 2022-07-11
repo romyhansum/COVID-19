@@ -21426,7 +21426,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-02-15,LAO,Laos,Cases on an international conveyance Japan,,,705,6,,699,,,False,False,
 2021-05-16,LAO,Laos,Eswatini,-26.518375,31.465684,18520,672,,17848,,,False,False,
 2020-03-25,LAO,Laos,Netherlands Antilles,52.376356,4.924567,22,0,0,22,,,False,False,
-2022-07-08,LVA,Latvia,Latvia,56.875584,24.607722,839846,5869,,833977,,,True,True,LV0
+2022-07-11,LVA,Latvia,Latvia,56.875584,24.607722,841132,5871,,835261,,,True,True,LV0
 2022-07-08,LBN,Lebanon,,-23.45139,-58.453215,660841,18994,,641847,,,False,False,PY
 2022-07-08,LBN,Lebanon,,17.363183,-61.789423,8681,142,,8539,,,False,False,AG
 2022-07-08,LBN,Lebanon,,-13.151917,27.852537,326300,4008,,322292,,,False,False,ZM
@@ -37150,8 +37150,8 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2022-07-11,CHE,Switzerland,Glarus,46.980518,9.065544,11406,102,0,11304,7,0,False,False,CH051
 2022-07-11,CHE,Switzerland,Graubünden,46.658176,9.629923,89114,255,0,88859,32,1,False,False,CH056
 2022-07-11,CHE,Switzerland,Jura,47.368327,7.198733,31524,244,0,31280,3,0,False,False,CH025
-2022-07-11,CHE,Switzerland,Liechtenstein,47.164696,9.555,18141,85,17806,250,1,0,False,False,LI
-2022-07-11,CHE,Switzerland,Lucerne,47.06883,8.116991,186080,466,0,185614,29,0,False,False,CH061
+2022-07-11,CHE,Switzerland,Liechtenstein,47.164696,9.555,18201,85,17868,248,2,0,False,False,LI
+2022-07-11,CHE,Switzerland,Lucerne,47.06883,8.116991,186800,466,0,186334,29,0,False,False,CH061
 2022-07-11,CHE,Switzerland,Neuchâtel,46.997282,6.782288,80047,471,0,79576,35,1,False,False,CH024
 2022-07-11,CHE,Switzerland,Nidwalden,46.922198,8.419375,19150,36,0,19114,2,0,False,False,CH065
 2022-07-11,CHE,Switzerland,Obwalden,46.857772,8.209745,17462,61,0,17401,0,0,False,False,CH064
@@ -37159,7 +37159,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2022-07-11,CHE,Switzerland,Schwyz,47.06411,8.761568,57450,358,55875,1217,0,0,False,False,CH063
 2022-07-11,CHE,Switzerland,Solothurn,47.336648,7.686944,121127,368,0,120759,21,0,False,False,CH023
 2022-07-11,CHE,Switzerland,St. Gallen,47.305025,9.019368,218443,860,0,217583,18,0,False,False,CH055
-2022-07-11,CHE,Switzerland,Thurgau,47.567205,9.112572,123866,693,2738,120435,24,5,False,False,CH057
+2022-07-11,CHE,Switzerland,Thurgau,47.567205,9.112572,125284,695,2754,121835,27,2,False,False,CH057
 2022-07-11,CHE,Switzerland,Ticino,46.297963,8.808447,156123,1199,3411,151513,186,19,False,False,CH07
 2022-07-11,CHE,Switzerland,Uri,46.775402,8.627444,15432,68,0,15364,8,0,False,False,CH062
 2022-07-11,CHE,Switzerland,Valais,46.211633,7.611267,150970,820,0,150150,16,2,False,False,CH012
