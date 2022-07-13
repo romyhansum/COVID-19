@@ -25409,7 +25409,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2022-07-12,MNG,Mongolia,,-32.53152,-55.758328,965370,7373,,957997,,,False,False,UY
 2022-07-12,MNG,Mongolia,,-36.711951,-73.601704,4090523,58860,,4031663,,,False,False,CL
 2022-07-12,MNG,Mongolia,,9.624897,-84.253308,904934,8525,,896409,,,False,False,CR
-2022-07-11,MNE,Montenegro,Montenegro,42.710152,19.410069,243768,2729,,241039,0,,False,True,ME
+2022-07-12,MNE,Montenegro,Montenegro,42.710152,19.410069,244337,2730,,241607,25,,False,True,ME
 2022-07-12,MSR,Montserrat,,4.866324,-58.932507,68194,1262,,66932,,,False,False,GY
 2022-07-12,MSR,Montserrat,,64.583013,17.86411,1450727,3415,,1447312,,,False,False,NO
 2022-07-12,MSR,Montserrat,,-17.778572,-143.903496,73858,649,,73209,,,False,False,PF
@@ -37153,7 +37153,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2022-07-13,CHE,Switzerland,Liechtenstein,47.164696,9.555,18257,85,17931,241,2,0,False,False,LI
 2022-07-13,CHE,Switzerland,Lucerne,47.06883,8.116991,187472,466,0,187006,29,0,False,False,CH061
 2022-07-13,CHE,Switzerland,Neuchâtel,46.997282,6.782288,81245,472,0,80773,27,1,False,False,CH024
-2022-07-13,CHE,Switzerland,Nidwalden,46.922198,8.419375,19262,36,0,19226,2,0,False,False,CH065
+2022-07-13,CHE,Switzerland,Nidwalden,46.922198,8.419375,19302,36,0,19266,2,0,False,False,CH065
 2022-07-13,CHE,Switzerland,Obwalden,46.857772,8.209745,17462,61,0,17401,0,0,False,False,CH064
 2022-07-13,CHE,Switzerland,Schaffhausen,47.721853,8.563863,34194,133,0,34061,11,0,False,False,CH052
 2022-07-13,CHE,Switzerland,Schwyz,47.06411,8.761568,57450,358,55875,1217,0,0,False,False,CH063
