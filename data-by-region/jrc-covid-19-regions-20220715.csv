@@ -22621,7 +22621,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2022-07-14,LTU,Lithuania,,,,21544,153,,21391,,,True,True,SB
 2022-07-14,LTU,Lithuania,,-32.53152,-55.758328,965370,7373,,957997,,,True,True,UY
 2022-06-27,LTU,Lithuania,,38.961515,35.25175,15085742,98996,,14986746,,,True,True,TU
-2022-07-13,LUX,Luxembourg,Luxembourg,49.815764,6.131514,275512,1103,,274409,,,True,True,LU
+2022-07-14,LUX,Luxembourg,Luxembourg,49.815764,6.131514,276134,1106,,275028,,,True,True,LU
 2022-07-14,MDG,Madagascar,,42.729862,25.491667,1181657,37281,,1144376,,,False,False,BG
 2021-07-05,MDG,Madagascar,,41.903859,12.452041,26,0,,26,,,False,False,VA
 2022-07-14,MDG,Madagascar,,,,17786,125,,17661,,,False,False,TJ
@@ -37142,7 +37142,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2022-07-15,CHE,Switzerland,Aargau,47.410914,8.159107,202809,924,183600,18285,162,10,False,False,CH033
 2022-07-15,CHE,Switzerland,Appenzell Ausserrhoden,47.387404,9.413371,2867,50,0,2817,18,1,False,False,CH053
 2022-07-15,CHE,Switzerland,Appenzell Innerrhoden,47.308617,9.403544,6545,25,0,6520,0,0,False,False,CH054
-2022-07-15,CHE,Switzerland,Basel City,47.561925,7.592768,89748,291,88599,858,83,4,False,False,CH031
+2022-07-15,CHE,Switzerland,Basel City,47.561925,7.592768,89951,291,88723,937,81,4,False,False,CH031
 2022-07-15,CHE,Switzerland,Basel Country,47.441812,7.7644,133925,301,17705,115919,76,8,False,False,CH032
 2022-07-15,CHE,Switzerland,Bern,46.825006,7.626925,395976,1515,0,394461,253,22,False,False,CH021
 2022-07-15,CHE,Switzerland,Fribourg,46.710334,7.09922,148925,577,2152,146196,33,0,False,False,CH022
