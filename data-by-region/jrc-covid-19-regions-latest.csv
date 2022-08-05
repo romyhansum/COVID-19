@@ -37153,7 +37153,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2022-08-05,CHE,Switzerland,Liechtenstein,47.164696,9.555,18805,86,18536,183,1,0,False,False,LI
 2022-08-05,CHE,Switzerland,Lucerne,47.06883,8.116991,191595,468,0,191127,30,0,False,False,CH061
 2022-08-05,CHE,Switzerland,Neuchâtel,46.997282,6.782288,83375,475,0,82900,0,0,False,False,CH024
-2022-08-05,CHE,Switzerland,Nidwalden,46.922198,8.419375,19704,36,0,19668,0,0,False,False,CH065
+2022-08-05,CHE,Switzerland,Nidwalden,46.922198,8.419375,19723,36,0,19687,0,0,False,False,CH065
 2022-08-05,CHE,Switzerland,Obwalden,46.857772,8.209745,17862,61,0,17801,0,0,False,False,CH064
 2022-08-05,CHE,Switzerland,Schaffhausen,47.721853,8.563863,35303,135,0,35168,7,2,False,False,CH052
 2022-08-05,CHE,Switzerland,Schwyz,47.06411,8.761568,57450,358,55875,1217,0,0,False,False,CH063
