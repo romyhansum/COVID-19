@@ -22621,7 +22621,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2022-09-01,LTU,Lithuania,,47.164638,19.508944,2048547,47291,,2001256,,,True,True,HU
 2022-09-01,LTU,Lithuania,,38.275283,23.810343,4762827,32552,,4730275,,,True,True,EL
 2022-08-30,LTU,Lithuania,,,,17786,125,,17661,,,True,True,TJ
-2022-08-31,LUX,Luxembourg,Luxembourg,49.815764,6.131514,287100,1123,,285977,,,True,True,LU
+2022-09-01,LUX,Luxembourg,Luxembourg,49.815764,6.131514,287257,1123,,286134,,,True,True,LU
 2022-08-30,MDG,Madagascar,,8.621697,0.829685,38465,282,,38183,,,False,False,TG
 2022-09-01,MDG,Madagascar,,-0.828097,11.598909,48649,306,,48343,,,False,False,GA
 2022-09-01,MDG,Madagascar,,27.515709,90.442455,61076,21,,61055,,,False,False,BT
@@ -25409,7 +25409,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2022-03-11,MNG,Mongolia,,61.523111,-74.9,17242043,359585,,16882458,,,False,False,RU
 2022-09-01,MNG,Mongolia,,15.416749,-61.36413,14852,68,,14784,,,False,False,DM
 2022-03-24,MNG,Mongolia,,42.542268,1.596865,39713,155,,39558,,,False,False,AD
-2022-09-01,MNE,Montenegro,Montenegro,42.710152,19.410069,275791,2773,,273018,0,,False,True,ME
+2022-09-02,MNE,Montenegro,Montenegro,42.710152,19.410069,275988,2777,,273211,0,,False,True,ME
 2022-09-01,MSR,Montserrat,,,,6265,1,,6264,,,False,False,
 2022-08-30,MSR,Montserrat,,23.886291,45.081139,813284,9292,,803992,,,False,False,SA
 2022-08-30,MSR,Montserrat,,4.109319,109.455475,4778140,36206,,4741934,,,False,False,MY
