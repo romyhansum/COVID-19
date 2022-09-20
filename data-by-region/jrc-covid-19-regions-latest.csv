@@ -12320,7 +12320,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2022-09-19,ERI,Eritrea,,24.885993,-76.709892,37187,833,,36354,,,False,False,BS
 2022-09-19,ERI,Eritrea,,13.446472,144.786613,48747,394,,48353,,,False,False,GU
 2022-09-19,ERI,Eritrea,,18.22512,-63.07213,3856,12,,3844,,,False,False,AI
-2022-09-13,EST,Estonia,Estonia,58.596209,25.023778,599719,,,599719,,,True,True,EE0
+2022-09-20,EST,Estonia,Estonia,58.596209,25.023778,600911,,,600911,,,True,True,EE0
 2022-09-19,ETH,Ethiopia,,1.365188,32.304651,169023,3628,,165395,,,False,False,UG
 2022-09-19,ETH,Ethiopia,,41.379722,64.564459,244060,1637,,242423,,,False,False,UZ
 2022-09-19,ETH,Ethiopia,,,,6389,1,,6388,,,False,False,
