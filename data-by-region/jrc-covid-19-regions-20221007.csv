@@ -21426,7 +21426,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-02-15,LAO,Laos,Cases on an international conveyance Japan,,,705,6,,699,,,False,False,
 2021-05-16,LAO,Laos,Eswatini,-26.518375,31.465684,18520,672,,17848,,,False,False,
 2020-03-25,LAO,Laos,Netherlands Antilles,52.376356,4.924567,22,0,0,22,,,False,False,
-2022-10-06,LVA,Latvia,Latvia,56.875584,24.607722,936008,6009,,929999,,,True,True,LV0
+2022-10-07,LVA,Latvia,Latvia,56.875584,24.607722,937162,6012,,931150,,,True,True,LV0
 2022-10-06,LBN,Lebanon,,9.084575,8.674252,265505,3155,,262350,,,False,False,NG
 2022-10-06,LBN,Lebanon,,13.796873,-88.910412,201785,4230,,197555,,,False,False,SV
 2022-10-06,LBN,Lebanon,,-15.422486,60.006449,262648,1026,,261622,,,False,False,MU
@@ -37150,7 +37150,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2022-10-06,CHE,Switzerland,Glarus,46.980518,9.065544,11406,102,0,11304,7,0,False,False,CH051
 2022-10-06,CHE,Switzerland,Graubünden,46.658176,9.629923,89114,255,0,88859,32,1,False,False,CH056
 2022-10-06,CHE,Switzerland,Jura,47.368327,7.198733,31524,244,0,31280,3,0,False,False,CH025
-2022-10-06,CHE,Switzerland,Liechtenstein,47.164696,9.555,19988,86,19545,357,3,0,False,False,LI
+2022-10-06,CHE,Switzerland,Liechtenstein,47.164696,9.555,20077,86,19551,440,1,0,False,False,LI
 2022-10-06,CHE,Switzerland,Lucerne,47.06883,8.116991,198221,469,0,197752,35,0,False,False,CH061
 2022-10-06,CHE,Switzerland,Neuchâtel,46.997282,6.782288,86370,478,0,85892,26,0,False,False,CH024
 2022-10-06,CHE,Switzerland,Nidwalden,46.922198,8.419375,20439,40,0,20399,3,0,False,False,CH065
