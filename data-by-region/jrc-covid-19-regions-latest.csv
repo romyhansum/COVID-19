@@ -37150,9 +37150,9 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2022-10-24,CHE,Switzerland,Glarus,46.980518,9.065544,11406,102,0,11304,7,0,False,False,CH051
 2022-10-24,CHE,Switzerland,Graubünden,46.658176,9.629923,89114,255,0,88859,32,1,False,False,CH056
 2022-10-24,CHE,Switzerland,Jura,47.368327,7.198733,31524,244,0,31280,3,0,False,False,CH025
-2022-10-24,CHE,Switzerland,Liechtenstein,47.164696,9.555,20541,86,20231,224,2,0,False,False,LI
+2022-10-24,CHE,Switzerland,Liechtenstein,47.164696,9.555,20548,86,20290,172,1,0,False,False,LI
 2022-10-24,CHE,Switzerland,Lucerne,47.06883,8.116991,201393,471,0,200922,32,0,False,False,CH061
-2022-10-24,CHE,Switzerland,Neuchâtel,46.997282,6.782288,87832,480,0,87352,43,0,False,False,CH024
+2022-10-24,CHE,Switzerland,Neuchâtel,46.997282,6.782288,88375,484,0,87891,30,0,False,False,CH024
 2022-10-24,CHE,Switzerland,Nidwalden,46.922198,8.419375,20825,40,0,20785,3,0,False,False,CH065
 2022-10-24,CHE,Switzerland,Obwalden,46.857772,8.209745,18761,62,0,18699,0,0,False,False,CH064
 2022-10-24,CHE,Switzerland,Schaffhausen,47.721853,8.563863,37742,136,0,37606,21,1,False,False,CH052
