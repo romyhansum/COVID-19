@@ -37155,7 +37155,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2022-10-26,CHE,Switzerland,Neuchâtel,46.997282,6.782288,88375,484,0,87891,30,0,False,False,CH024
 2022-10-26,CHE,Switzerland,Nidwalden,46.922198,8.419375,20878,40,0,20838,0,0,False,False,CH065
 2022-10-26,CHE,Switzerland,Obwalden,46.857772,8.209745,18761,62,0,18699,0,0,False,False,CH064
-2022-10-26,CHE,Switzerland,Schaffhausen,47.721853,8.563863,37742,136,0,37606,21,1,False,False,CH052
+2022-10-26,CHE,Switzerland,Schaffhausen,47.721853,8.563863,38054,136,0,37918,12,0,False,False,CH052
 2022-10-26,CHE,Switzerland,Schwyz,47.06411,8.761568,57450,358,55875,1217,0,0,False,False,CH063
 2022-10-26,CHE,Switzerland,Solothurn,47.336648,7.686944,133991,376,0,133615,26,0,False,False,CH023
 2022-10-26,CHE,Switzerland,St. Gallen,47.305025,9.019368,237291,872,0,236419,39,3,False,False,CH055
