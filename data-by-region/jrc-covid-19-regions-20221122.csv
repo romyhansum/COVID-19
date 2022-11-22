@@ -12320,7 +12320,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2022-11-21,ERI,Eritrea,,47.164696,9.555,20796,86,,20710,,,False,False,LI
 2022-11-21,ERI,Eritrea,,,,223877,1057,,222820,,,False,False,
 2022-11-21,ERI,Eritrea,,33.892166,9.561556,1146799,29266,,1117533,,,False,False,TN
-2022-11-15,EST,Estonia,Estonia,58.596209,25.023778,608377,,,608377,,,True,True,EE0
+2022-11-22,EST,Estonia,Estonia,58.596209,25.023778,608845,,,608845,,,True,True,EE0
 2022-11-21,ETH,Ethiopia,,-16.578041,178.416339,68307,878,,67429,,,False,False,FJ
 2022-11-21,ETH,Ethiopia,,3.202833,73.165249,185584,311,,185273,,,False,False,MV
 2022-11-09,ETH,Ethiopia,,-13.24627,34.295385,88099,2683,,85416,,,False,False,MW
@@ -21426,7 +21426,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2021-02-15,LAO,Laos,Cases on an international conveyance Japan,,,705,6,,699,,,False,False,
 2021-05-16,LAO,Laos,Eswatini,-26.518375,31.465684,18520,672,,17848,,,False,False,
 2020-03-25,LAO,Laos,Netherlands Antilles,52.376356,4.924567,22,0,0,22,,,False,False,
-2022-11-21,LVA,Latvia,Latvia,56.875584,24.607722,959835,6083,,953752,,,True,True,LV0
+2022-11-22,LVA,Latvia,Latvia,56.875584,24.607722,960450,6084,,954366,,,True,True,LV0
 2022-11-21,LBN,Lebanon,,6.614041,20.941759,15288,113,,15175,,,False,False,CF
 2022-11-21,LBN,Lebanon,,40.066181,45.111108,445631,8709,,436922,,,False,False,AM
 2022-11-21,LBN,Lebanon,,31.792306,-7.080168,1267315,16283,,1251032,,,False,False,MA
