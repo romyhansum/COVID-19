@@ -37152,7 +37152,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2022-11-21,CHE,Switzerland,Jura,47.368327,7.198733,31524,244,0,31280,3,0,False,False,CH025
 2022-11-21,CHE,Switzerland,Liechtenstein,47.164696,9.555,20831,87,20700,44,1,0,False,False,LI
 2022-11-21,CHE,Switzerland,Lucerne,47.06883,8.116991,204403,471,0,203932,32,0,False,False,CH061
-2022-11-21,CHE,Switzerland,Neuchâtel,46.997282,6.782288,89426,487,0,88939,29,1,False,False,CH024
+2022-11-21,CHE,Switzerland,Neuchâtel,46.997282,6.782288,89803,487,0,89316,36,1,False,False,CH024
 2022-11-21,CHE,Switzerland,Nidwalden,46.922198,8.419375,21280,40,0,21240,3,0,False,False,CH065
 2022-11-21,CHE,Switzerland,Obwalden,46.857772,8.209745,19083,64,0,19019,0,0,False,False,CH064
 2022-11-21,CHE,Switzerland,Schaffhausen,47.721853,8.563863,38705,136,0,38569,9,1,False,False,CH052
