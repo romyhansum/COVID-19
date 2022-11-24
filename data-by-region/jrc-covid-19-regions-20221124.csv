@@ -25409,7 +25409,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2022-11-23,MNG,Mongolia,,-11.209451,17.880669,104491,1923,,102568,,,False,False,AO
 2022-11-23,MNG,Mongolia,,-32.53152,-55.758328,992887,7530,,985357,,,False,False,UY
 2022-11-23,MNG,Mongolia,,47.164696,9.555,20859,86,,20773,,,False,False,LI
-2022-11-23,MNE,Montenegro,Montenegro,42.710152,19.410069,283566,2789,,280777,0,,False,True,ME
+2022-11-24,MNE,Montenegro,Montenegro,42.710152,19.410069,283586,2789,,280797,0,,False,True,ME
 2022-11-23,MSR,Montserrat,,8.464806,-11.795934,7758,125,,7633,,,False,False,SL
 2022-11-23,MSR,Montserrat,,48.665639,19.709097,1855204,20719,,1834485,,,False,False,SK
 2022-11-23,MSR,Montserrat,,,,11945,2159,,9786,,,False,False,YE
