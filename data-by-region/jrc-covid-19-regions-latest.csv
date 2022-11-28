@@ -37151,7 +37151,7 @@ Date,iso3,CountryName,Region,lat,lon,CumulativePositive,CumulativeDeceased,Cumul
 2022-11-28,CHE,Switzerland,Graubünden,46.658176,9.629923,89114,255,0,88859,32,1,False,False,CH056
 2022-11-28,CHE,Switzerland,Jura,47.368327,7.198733,31524,244,0,31280,3,0,False,False,CH025
 2022-11-28,CHE,Switzerland,Liechtenstein,47.164696,9.555,20890,87,20762,41,1,0,False,False,LI
-2022-11-28,CHE,Switzerland,Lucerne,47.06883,8.116991,205167,471,0,204696,32,0,False,False,CH061
+2022-11-28,CHE,Switzerland,Lucerne,47.06883,8.116991,205361,471,0,204890,32,0,False,False,CH061
 2022-11-28,CHE,Switzerland,Neuchâtel,46.997282,6.782288,89803,487,0,89316,36,1,False,False,CH024
 2022-11-28,CHE,Switzerland,Nidwalden,46.922198,8.419375,21344,41,0,21303,1,0,False,False,CH065
 2022-11-28,CHE,Switzerland,Obwalden,46.857772,8.209745,19143,64,0,19079,0,0,False,False,CH064
